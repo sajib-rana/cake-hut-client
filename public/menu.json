@@ -19,7 +19,7 @@
         "_id": "642c155b2c4774f05c36ee7c",
         "name": "Red Velvet Cheesecake",
         "recipe": "A decadent fusion of red velvet cake and creamy cheesecake...",
-        "image": "https://ibb.co/gzfvcZt",
+        "image": "https://i.ibb.co/Yp1DVBf/speciality.jpg",
         "category": "Specialty-Cakes",
         "price": 14.5
     },
@@ -27,7 +27,7 @@
         "_id": "642c155b2c4774f05c36ee88",
         "name": "Escalope de Veau",
         "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "image": "https://i.ibb.co/8Md1nmH/dessert.jpg",
         "category": "dessert",
         "price": 12.5
     },
@@ -35,7 +35,7 @@
         "_id": "642c155b2c4774f05c36ee7a",
         "name": "Red Velvet Cheesecake",
         "recipe": "A decadent fusion of red velvet cake and creamy cheesecake...",
-        "image": "https://ibb.co/gzfvcZt",
+        "image": "https://i.ibb.co/Yp1DVBf/speciality.jpg",
         "category": "Specialty-Cakes",
         "price": 14.5
     },
@@ -43,7 +43,7 @@
         "_id": "642c155b2c4774f05c36ee8c",
         "name": "Escalope de Veau",
         "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "image": "https://i.ibb.co/8Md1nmH/dessert.jpg",
         "category": "dessert",
         "price": 12.5
     },
@@ -51,7 +51,7 @@
         "_id": "642c155b2c4774f05c36ee94",
         "name": "Lemon Blueberry Bundt Cake",
         "recipe": "A delightful bundt cake infused with fresh lemon zest and juicy blueberries, drizzled with a tangy lemon glaze.",
-        "image": "https://ibb.co/y5x4pBJ",
+        "image": "https://i.ibb.co/tc1LzP5/fruit-cake.jpg",
         "category": "Fruit-Cakes",
         "price": 12.5
     },
@@ -75,7 +75,7 @@
         "_id": "642c155b2c4774f05c36eeaf",
         "name": "Lemon Blueberry Bundt Cake",
         "recipe": "A delightful bundt cake infused with fresh lemon zest and juicy blueberries, drizzled with a tangy lemon glaze.",
-        "image": "https://ibb.co/y5x4pBJ",
+        "image": "https://i.ibb.co/tc1LzP5/fruit-cake.jpg",
         "category": "Fruit-Cakes",
         "price": 12.5
     },
@@ -83,7 +83,7 @@
         "_id": "642c155b2c4774f05c36ee89",
         "name": "Chicken and Walnut Salad",
         "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "image": "https://i.ibb.co/8Md1nmH/dessert.jpg",
         "category": "dessert",
         "price": 13.5
     },
@@ -91,7 +91,7 @@
         "_id": "642c155b2c4774f05c36ee8a",
         "name": "Escalope de Veau",
         "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "image": "https://i.ibb.co/8Md1nmH/dessert.jpg",
         "category": "dessert",
         "price": 12.5
     },
@@ -105,9 +105,9 @@
     },
     {
         "_id": "642c155b2c4774f05c36ee81",
-        "name": "Tuna Niçoise",
-        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "name": "Chocolate Fudge Cake",
+        "recipe": "A rich and indulgent chocolate fudge cake...",
+        "image": "https://i.ibb.co/dWvMgtG/chocolate-cake.jpg",
         "category": "offered",
         "price": 10.5
     },
@@ -115,7 +115,7 @@
         "_id": "642c155b2c4774f05c36ee84",
         "name": "Roast Duck Breast",
         "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-4-370x247.jpg",
+        "image": "https://i.ibb.co/8Md1nmH/dessert.jpg",
         "category": "dessert",
         "price": 14.5
     },
@@ -139,15 +139,15 @@
         "_id": "642c155b2c4774f05c36ee87",
         "name": "Chicken and Walnut Salad",
         "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "image": "https://i.ibb.co/8Md1nmH/dessert.jpg",
         "category": "dessert",
         "price": 13.5
     },
     {
         "_id": "642c155b2c4774f05c36ee83",
-        "name": "Chicken and Walnut Salad",
-        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "name": "Chocolate Fudge Cake",
+        "recipe": "A rich and indulgent chocolate fudge cake...",
+        "image": "https://i.ibb.co/dWvMgtG/chocolate-cake.jpg",
         "category": "offered",
         "price": 13.5
     },
@@ -155,7 +155,7 @@
         "_id": "642c155b2c4774f05c36ee7f",
         "name": "Red Velvet Cheesecake",
         "recipe": "A decadent fusion of red velvet cake and creamy cheesecake...",
-        "image": "https://ibb.co/gzfvcZt",
+        "image": "https://i.ibb.co/Yp1DVBf/speciality.jpg",
         "category": "Specialty-Cakes",
         "price": 14.5
     },
@@ -177,9 +177,9 @@
     },
     {
         "_id": "642c155b2c4774f05c36ee80",
-        "name": "Roast Duck Breast",
-        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-4-370x247.jpg",
+        "name": "Chocolate Fudge Cake",
+        "recipe": "A rich and indulgent chocolate fudge cake...",
+        "image": "https://i.ibb.co/dWvMgtG/chocolate-cake.jpg",
         "category": "offered",
         "price": 14.5
     },
@@ -187,7 +187,7 @@
         "_id": "642c155b2c4774f05c36ee90",
         "name": "Fish Parmentier",
         "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
+        "image": "https://i.ibb.co/8Md1nmH/dessert.jpg",
         "category": "dessert",
         "price": 9.5
     },
@@ -195,7 +195,7 @@
         "_id": "642c155b2c4774f05c36eeb0",
         "name": "Lemon Blueberry Bundt Cake",
         "recipe": "A delightful bundt cake infused with fresh lemon zest and juicy blueberries, drizzled with a tangy lemon glaze.",
-        "image": "https://ibb.co/y5x4pBJ",
+        "image": "https://i.ibb.co/tc1LzP5/fruit-cake.jpg",
         "category": "Fruit-Cakes",
         "price": 13.5
     },
@@ -203,7 +203,7 @@
         "_id": "642c155b2c4774f05c36ee8d",
         "name": "Chicken and Walnut Salad",
         "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "image": "https://i.ibb.co/8Md1nmH/dessert.jpg",
         "category": "dessert",
         "price": 13.5
     },
@@ -211,7 +211,7 @@
         "_id": "642c155b2c4774f05c36ee8e",
         "name": "Escalope de Veau",
         "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "image": "https://i.ibb.co/8Md1nmH/dessert.jpg",
         "category": "dessert",
         "price": 12.5
     },
@@ -235,7 +235,7 @@
         "_id": "642c155b2c4774f05c36eeb3",
         "name": "Lemon Blueberry Bundt Cake",
         "recipe": "A delightful bundt cake infused with fresh lemon zest and juicy blueberries, drizzled with a tangy lemon glaze.",
-        "image": "https://ibb.co/y5x4pBJ",
+        "image": "https://i.ibb.co/tc1LzP5/fruit-cake.jpg",
         "category": "Fruit-Cakes",
         "price": 9.5
     },
@@ -243,7 +243,7 @@
         "_id": "642c155b2c4774f05c36eeb5",
         "name": "Lemon Blueberry Bundt Cake",
         "recipe": "A delightful bundt cake infused with fresh lemon zest and juicy blueberries, drizzled with a tangy lemon glaze.",
-        "image": "https://ibb.co/y5x4pBJ",
+        "image": "https://i.ibb.co/tc1LzP5/fruit-cake.jpg",
         "category": "Fruit-Cakes",
         "price": 9.5
     },
@@ -251,7 +251,7 @@
         "_id": "642c155b2c4774f05c36eeb6",
         "name": "Lemon Blueberry Bundt Cake",
         "recipe": "A delightful bundt cake infused with fresh lemon zest and juicy blueberries, drizzled with a tangy lemon glaze.",
-        "image": "https://ibb.co/y5x4pBJ",
+        "image": "https://i.ibb.co/tc1LzP5/fruit-cake.jpg",
         "category": "Fruit-Cakes",
         "price": 14.7
     },
@@ -259,7 +259,7 @@
         "_id": "642c155b2c4774f05c36eeb8",
         "name": "Lemon Blueberry Bundt Cake",
         "recipe": "A delightful bundt cake infused with fresh lemon zest and juicy blueberries, drizzled with a tangy lemon glaze.",
-        "image": "https://ibb.co/y5x4pBJ",
+        "image": "https://i.ibb.co/tc1LzP5/fruit-cake.jpg",
         "category": "Fruit-Cakes",
         "price": 14.7
     },
@@ -267,7 +267,7 @@
         "_id": "642c155b2c4774f05c36ee7e",
         "name": "Red Velvet Cheesecake",
         "recipe": "A decadent fusion of red velvet cake and creamy cheesecake...",
-        "image": "https://ibb.co/gzfvcZt",
+        "image": "https://i.ibb.co/Yp1DVBf/speciality.jpg",
         "category": "Specialty-Cakes",
         "price": 14.5
     },
@@ -275,7 +275,7 @@
         "_id": "642c155b2c4774f05c36ee8b",
         "name": "Chicken and Walnut Salad",
         "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "image": "https://i.ibb.co/8Md1nmH/dessert.jpg",
         "category": "dessert",
         "price": 13.5
     },
@@ -283,7 +283,7 @@
         "_id": "642c155b2c4774f05c36ee8f",
         "name": "Chicken and Walnut Salad",
         "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-3-370x247.jpg",
+        "image": "https://i.ibb.co/8Md1nmH/dessert.jpg",
         "category": "dessert",
         "price": 13.5
     },
@@ -291,7 +291,7 @@
         "_id": "642c155b2c4774f05c36ee91",
         "name": "Haddock",
         "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg",
+        "image": "https://i.ibb.co/8Md1nmH/dessert.jpg",
         "category": "dessert",
         "price": 14.7
     },
@@ -323,7 +323,7 @@
         "_id": "642c155b2c4774f05c36ee85",
         "name": "Tuna Niçoise",
         "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "image": "https://i.ibb.co/8Md1nmH/dessert.jpg",
         "category": "dessert",
         "price": 10.5
     },
@@ -355,7 +355,7 @@
         "_id": "642c155b2c4774f05c36eeb7",
         "name": "Lemon Blueberry Bundt Cake",
         "recipe": "A delightful bundt cake infused with fresh lemon zest and juicy blueberries, drizzled with a tangy lemon glaze.",
-        "image": "https://ibb.co/y5x4pBJ",
+        "image": "https://i.ibb.co/tc1LzP5/fruit-cake.jpg",
         "category": "Fruit-Cakes",
         "price": 9.5
     },
@@ -387,7 +387,7 @@
         "_id": "642c155b2c4774f05c36eeb4",
         "name": "Lemon Blueberry Bundt Cake",
         "recipe": "A delightful bundt cake infused with fresh lemon zest and juicy blueberries, drizzled with a tangy lemon glaze.",
-        "image": "https://ibb.co/y5x4pBJ",
+        "image": "https://i.ibb.co/tc1LzP5/fruit-cake.jpg",
         "category": "Fruit-Cakes",
         "price": 14.7
     },
@@ -401,9 +401,9 @@
     },
     {
         "_id": "642c155b2c4774f05c36ee82",
-        "name": "Escalope de Veau",
-        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "name": "Chocolate Fudge Cake",
+        "recipe": "A rich and indulgent chocolate fudge cake...",
+        "image": "https://i.ibb.co/dWvMgtG/chocolate-cake.jpg",
         "category": "offered",
         "price": 12.5
     },
@@ -411,7 +411,7 @@
         "_id": "642c155b2c4774f05c36ee86",
         "name": "Escalope de Veau",
         "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
-        "image": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-2-370x247.jpg",
+        "image": "https://i.ibb.co/8Md1nmH/dessert.jpg",
         "category": "dessert",
         "price": 12.5
     },
@@ -435,7 +435,7 @@
         "_id": "642c155b2c4774f05c36eeb1",
         "name": "Lemon Blueberry Bundt Cake",
         "recipe": "A delightful bundt cake infused with fresh lemon zest and juicy blueberries, drizzled with a tangy lemon glaze.",
-        "image": "https://ibb.co/y5x4pBJ",
+        "image": "https://i.ibb.co/tc1LzP5/fruit-cake.jpg",
         "category": "Fruit-Cakes",
         "price": 9.5
     },
@@ -443,7 +443,7 @@
         "_id": "642c155b2c4774f05c36eead",
         "name": "Lemon Blueberry Bundt Cake",
         "recipe": "A delightful bundt cake infused with fresh lemon zest and juicy blueberries, drizzled with a tangy lemon glaze.",
-        "image": "https://ibb.co/y5x4pBJ",
+        "image": "https://i.ibb.co/tc1LzP5/fruit-cake.jpg",
         "category": "Fruit-Cakes",
         "price": 14.5
     },
@@ -451,7 +451,7 @@
         "_id": "642c155b2c4774f05c36eeae",
         "name": "Lemon Blueberry Bundt Cake",
         "recipe": "A delightful bundt cake infused with fresh lemon zest and juicy blueberries, drizzled with a tangy lemon glaze.",
-        "image": "https://ibb.co/y5x4pBJ",
+        "image": "https://i.ibb.co/tc1LzP5/fruit-cake.jpg",
         "category": "Fruit-Cakes",
         "price": 10.5
     }
