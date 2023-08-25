@@ -11,7 +11,7 @@ import OrderTab from '../OrderTab/OrderTab';
 
 
 const Order = () => {
-    const categories = ['salad', 'pizza', 'soup', 'dessert', 'drinks'];
+    const categories = ['Vanilla-Cake', 'Chocolate-Cake', 'Fruit-Cake', 'Dessert', 'Dan-Cake'];
     const { category } = useParams();
     const initialIndex = categories.indexOf(category);
     const [tabIndex, setTabIndex] = useState(initialIndex);
@@ -21,21 +21,21 @@ const Order = () => {
     const fruit = menu.filter(item => item.category === 'Fruit-Cakes');
     const vanilla = menu.filter(item => item.category === 'Vanilla-Cakes');
     const Chocolate = menu.filter(item => item.category === 'Chocolate-Cakes');
-    const drinks = menu.filter(item => item.category === 'drinks');
+    const dan = menu.filter(item => item.category === 'drinks');
 
     return (
         <div>
             <Helmet>
                 <title>Cake Hut | Order Cake</title>
             </Helmet>
-            <Cover img={orderCoverImg} title="Order Cake"></Cover>
+            <Cover img={orderCoverImg} title="Order-Cake"></Cover>
             <Tabs defaultIndex={tabIndex} onSelect={(index) => setTabIndex(index)}>
                 <TabList>
-                    <Tab>Vanilla-cake</Tab>
-                    <Tab>chocalate-cake</Tab>
-                    <Tab>Fruit-cake</Tab>
+                    <Tab>Vanilla-Cake</Tab>
+                    <Tab>Chocalate-Cake</Tab>
+                    <Tab>Fruit-Cake</Tab>
                     <Tab>Dessert</Tab>
-                    <Tab>Drinks</Tab>
+                    <Tab>Dan-Cake</Tab>
                 </TabList>
                 <TabPanel>
                     <OrderTab items={vanilla}></OrderTab>
@@ -50,7 +50,7 @@ const Order = () => {
                     <OrderTab items={desserts}></OrderTab>
                 </TabPanel>
                 <TabPanel>
-                    <OrderTab items={drinks}></OrderTab>
+                    <OrderTab items={dan}></OrderTab>
                 </TabPanel>
             </Tabs>
         </div>
