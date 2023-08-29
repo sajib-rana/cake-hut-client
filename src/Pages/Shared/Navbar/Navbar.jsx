@@ -17,7 +17,7 @@ const Navbar = () => {
     const navOptions = <>
         <li><Link to="/">Home</Link></li>
         <li><Link to="/menu">Our Menu</Link></li>
-        <li><Link to="/order/vanilla-cake">Order Cake</Link></li>
+        <li><Link to="/order/Vanilla-Cake">Order Cake</Link></li>
         <li><Link to="/secret">Secret</Link></li>
         <li>
             <Link to="/dashboard/mycart">
@@ -30,7 +30,7 @@ const Navbar = () => {
         
         {
             user ? <>
-                <span>{user?.displayName}</span>
+                {/* <span>{user?.displayName}</span> */}
                 <button onClick={handleLogOut} className="btn btn-ghost">LogOut</button>
             </> : <>
                 <li><Link to="/login">Login</Link></li>
@@ -40,7 +40,7 @@ const Navbar = () => {
 
     return (
         <>
-           <div className="navbar fixed z-10 bg-opacity-90 max-w-screen-xl bg-black text-white">
+           <div className="navbar fixed z-10 bg-opacity-60 max-w-screen-xl bg-orange-300 text-white">
                 <div className="navbar-start">
                     <div className="dropdown">
                         <label tabIndex={0} className="btn btn-ghost lg:hidden">
