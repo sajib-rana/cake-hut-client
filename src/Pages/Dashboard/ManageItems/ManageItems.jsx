@@ -3,6 +3,7 @@ import useMenu from "../../../hooks/useMenu";
 import Swal from "sweetalert2";
 import useAxiosSecure from "../../../hooks/useAxiosSecure";
 import SectionTittle from "../../../Components/SectionTittle/SectionTittle";
+import { Helmet } from "react-helmet";
 
 
 const ManageItems = () => {
@@ -40,6 +41,9 @@ const ManageItems = () => {
 
     return (
         <div className="w-full">
+             <Helmet>
+                <title>Cake Hut | ManageItems</title>
+            </Helmet>
             <SectionTittle heading="Manage All Items" subHeading="Hurry up"></SectionTittle>
             <div className="overflow-x-auto w-full">
                 <table className="table w-full">

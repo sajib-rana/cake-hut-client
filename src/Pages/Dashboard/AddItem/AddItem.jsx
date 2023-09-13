@@ -3,6 +3,7 @@ import { useForm } from 'react-hook-form';
 import useAxiosSecure from "../../../hooks/useAxiosSecure";
 import Swal from "sweetalert2";
 import SectionTittle from '../../../Components/SectionTittle/SectionTittle';
+import { Helmet } from 'react-helmet';
 
 const img_hosting_token = import.meta.env.VITE_Image_Upload_token;
 
@@ -49,6 +50,9 @@ const AddItem = () => {
     
     return (
         <div className="w-full px-10">
+             <Helmet>
+                <title>Cake Hut | AddItems</title>
+            </Helmet>
             <SectionTittle subHeading="What's new" heading="Add an item" ></SectionTittle>
             <form onSubmit={handleSubmit(onSubmit)}>
                 <div className="form-control w-full mb-4">
