@@ -9,7 +9,7 @@ const img_hosting_token = import.meta.env.VITE_Image_Upload_token;
 const AddItem = () => {
     const [axiosSecure] = useAxiosSecure();
     const { register, handleSubmit, reset } = useForm();
-    const img_hosting_url = `https://api.imgbb.com/1/upload?expiration=600&key=${img_hosting_token}`
+    const img_hosting_url = `https://api.imgbb.com/1/upload?key=${img_hosting_token}`
 
     const onSubmit = data => {
         
@@ -66,12 +66,12 @@ const AddItem = () => {
                         </label>
                         <select defaultValue="Pick One" {...register("category", { required: true })} className="select select-bordered">
                             <option disabled>Pick One</option>
-                            <option>Pizza</option>
-                            <option>Soup</option>
-                            <option>Salad</option>
+                            <option>Chocolate-Cake</option>
+                            <option>Fruit-Cake</option>
+                            <option>Vanilla-Cake</option>
                             <option>Dessert</option>
-                            <option>Desi</option>
-                            <option>Drinks</option>
+                            <option>Specialty-Cake</option>
+                            <option>Dan-Cake</option>
                         </select>
                     </div>
                     <div className="form-control w-full ml-4">
