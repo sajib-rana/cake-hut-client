@@ -4,18 +4,21 @@ import Swal from "sweetalert2";
 import { useLocation, useNavigate } from "react-router-dom";
 import useCart from "../../hooks/useCart";
 
+
 const CakeCard = ({item}) => {
     const {name, image, price, recipe} = item;
     const {user} = useContext(AuthContext);
     const [, refetch] = useCart();
     const navigate = useNavigate();
     const location = useLocation();
+    
 
     const handleAddToCart = item => {
         console.log(item);
+        
         if(user && user.email){
             const cartItem = { name, image, price, email: user.email}
-            fetch('http://localhost:5000/carts', {
+            fetch('https://cake-hut-server-sajib-rana.vercel.app/carts', {
                 method: 'POST',
                 headers: {
                     'content-type': 'application/json'

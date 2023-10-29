@@ -1,6 +1,5 @@
-
 import SectionTittle from "../../../Components/SectionTittle/SectionTittle";
-import featuredImg from '../../../assets/assets/home/img1.jpg';
+import featuredImg from '../../../assets/assets/home/img1.webp';
 import './Featured.css';
 
 

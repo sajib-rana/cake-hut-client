@@ -1,14 +1,14 @@
 import { Helmet } from "react-helmet";
 import Cover from "../../Shared/Cover/Cover";
-import img from '../../../assets/assets/menu/banner3.jpg'
+import img from '../../../assets/assets/menu/banner3.webp'
 import useMenu from "../../../hooks/useMenu";
 import SectionTittle from "../../../Components/SectionTittle/SectionTittle";
 import MenuCategory from "../ManuCategory/MenuCategory";
 
-import fruitImg from '../../../assets/assets/menu/fruit-cake.jpg'
-import vanillaImg from '../../../assets/assets/menu/vanilla.jpg'
-import chocolateImg from '../../../assets/assets/menu/chocalate-cake2.jpg'
-import dessertImg from '../../../assets/assets/menu/dessert.jpg'
+import fruitImg from '../../../assets/assets/menu/fruit-cake.webp'
+import vanillaImg from '../../../assets/assets/menu/vanilla.webp'
+import chocolateImg from '../../../assets/assets/menu/chocalate-cake2.webp'
+import dessertImg from '../../../assets/assets/menu/dessert.webp'
 
 const Menu = () => {
     

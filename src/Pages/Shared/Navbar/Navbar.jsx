@@ -3,10 +3,12 @@ import { Link } from "react-router-dom";
 import { AuthContext } from "../../../providers/AuthProvider";
 import { FaShoppingCart } from 'react-icons/fa';
 import useCart from "../../../hooks/useCart";
+import useAdmin from "../../../hooks/useAdmin";
 
 const Navbar = () => {
      
     const { user, logOut } = useContext(AuthContext);
+    const [isAdmin] = useAdmin();
     const [cart] = useCart();
 
     const handleLogOut = () => {
@@ -18,7 +20,7 @@ const Navbar = () => {
         <li><Link to="/">Home</Link></li>
         <li><Link to="/menu">Our Menu</Link></li>
         <li><Link to="/order/Vanilla-Cake">Order Cake</Link></li>
-        <li><Link to="/secret">Secret</Link></li>
+        <li><Link to={isAdmin ? '/dashboard/userAdmin' : '/dashboard/userHome'}>Dashboard</Link></li>
         <li>
             <Link to="/dashboard/mycart">
                 <button className="btn gap-2">
@@ -50,7 +52,7 @@ const Navbar = () => {
                             {navOptions}
                         </ul>
                     </div>
-                    <a className="btn btn-ghost normal-case text-xl">CAKE HUT</a>
+                    <Link to="/" className="btn btn-ghost normal-case text-xl">CAKE HUT</Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
@@ -58,7 +60,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn">Get started</a>
+                    <Link to="/order/Vanilla-Cake" className="btn">Get started</Link>
                 </div>
             </div> 
         </>

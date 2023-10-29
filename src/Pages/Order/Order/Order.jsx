@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import orderCoverImg from '../../../assets/assets/shop/chocolate-cake.jpg'
+import orderCoverImg from '../../../assets/assets/shop/chocolate-cake (1).webp'
 import Cover from '../../Shared/Cover/Cover';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
